@@ -24,9 +24,10 @@ The simple English Wikipedia [used to have](https://simple.wikipedia.org/w/index
 
 Read through the following links, and keep the following in mind: `REST` is a based on resources and actions that can be taken on them. Practically what this means for us a **_resource_** is a database `model` or `table`, an **_action_** is a database [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) action, and **_URIs_** are routes on the backend.
 
-* [REST API Quick Tips](https://restapitutorial.com/lessons/restquicktips.html)
-* [Using HTTP Methods](https://restapitutorial.com/lessons/httpmethods.html) for RESTful Services
-* [Resource Naming](https://restapitutorial.com/lessons/restfulresourcenaming.html)
+* [Data modeling](https://medium.com/clarusway/types-of-relationships-in-data-modelling-2d5138aa62b4) -- this covers types of data relationships that are relevant to `REST API`s and `SQL` databases.
+* [REST API Quick Tips](https://restapitutorial.com/lessons/restquicktips.html) -- broad stroke overview of `REST` ideas.
+* [Using HTTP Methods](https://restapitutorial.com/lessons/httpmethods.html) for RESTful Services -- how CRUD relates to HTTP methods.
+* [Resource Naming](https://restapitutorial.com/lessons/restfulresourcenaming.html) -- examples of good naming conventions in `REST API` urls and common pitfalls to avoid.
 
 ## How DB Models Relate to Routes in REST
 
